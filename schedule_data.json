@@ -1,0 +1,62 @@
+{
+    "schedule":{
+    "0": [
+        "미술",
+        "미술",
+        "음악",
+        "도덕",
+        "수학",
+        "국어"
+    ],
+    "1": [
+        "과학A",
+        "과학B",
+        "영어",
+        "국어",
+        "창체",
+        "한문",
+        "스포츠"
+    ],
+    "2": [
+        "음악",
+        "독서",
+        "역사",
+        "체육",
+        "과학A",
+        "사회"
+    ],
+    "3": [
+        "영어",
+        "체육",
+        "역사",
+        "과학B",
+        "한문",
+        "사회",
+        "수학"
+    ],
+    "4": [
+        "국어",
+        "도덕",
+        "역사",
+        "체육",
+        "영어",
+        "수학"
+    ]},
+    "url": {
+        "국어": "https://oc39.ebssw.kr/ki2kor/hmpg/hmpgAlctcrListView.do?menuSn=297874",
+        "수학": "https://oc39.ebssw.kr/2020kangilmath2/hmpg/hmpgAlctcrListView.do?menuSn=290801",
+        "사회": "https://oc39.ebssw.kr/s2fl/hmpg/hmpgAlctcrListView.do?menuSn=288922",
+        "역사": "https://oc39.ebssw.kr/online2history/hmpg/hmpgAlctcrListView.do?menuSn=153641",
+        "과학B": "https://oc39.ebssw.kr/kangilscience2b/hmpg/hmpgAlctcrListView.do?menuSn=288518",
+        "과학A": "https://oc39.ebssw.kr/kangilscience2a/hmpg/hmpgAlctcrListView.do?menuSn=295129",
+        "도덕": "https://oc39.ebssw.kr/97/hmpg/hmpgAlctcrListView.do?menuSn=311846",
+        "체육": "https://oc39.ebssw.kr/kpe2/hmpg/hmpgAlctcrListView.do?menuSn=367207",
+        "창체": "https://oc39.ebssw.kr/2002cartoon2/hmpg/hmpgAlctcrListView.do?menuSn=406258",
+        "스포츠": "https://oc39.ebssw.kr/basket202/hmpg/hmpgAlctcrListView.do?menuSn=408104",
+        "미술": "https://oc39.ebssw.kr/kangilartclass2/hmpg/hmpgAlctcrListView.do?menuSn=391326",
+        "한문": "https://oc39.ebssw.kr/kihanmun2020/hmpg/hmpgAlctcrListView.do?menuSn=383866",
+        "영어": "https://oc39.ebssw.kr/kangilenglish2k/hmpg/hmpgAlctcrListView.do?menuSn=302821",
+        "음악":"https://oc39.ebssw.kr/psyadagio/hmpg/hmpgAlctcrListView.do?menuSn=391822",
+        "독서": "https://oc39.ebssw.kr/ki2kor/hmpg/hmpgAlctcrListView.do?menuSn=297874"
+    }
+}
